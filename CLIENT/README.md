@@ -1,6 +1,6 @@
-# CSE Department Website - IIITDM Kancheepuram
+# CSE Department Website
 ## How to run?
-* Clone this repository using `git clone https://github.com/pranay414/cse-dept-website.git`
+* Clone this repository using `git clone https://github.com/SaraswatPraveen/CSE_DEPARTMENT_INFORMATION-SYSTEM.git`
 * Click on `file_you're_working.html`
 
 ## Code Strucutre
